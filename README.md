@@ -68,7 +68,7 @@ The conversion was implemented by Eckhard Bick and revised by:
 - Luisa Rocha
 - Isabela Soares-Bastos
 - Livy Real
-- Valeria Paiva
+- Valeria de Paiva
 
 The HamleDT conversion was implemented by Dan Zeman and revised by:
 
